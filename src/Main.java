@@ -7,5 +7,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int inputtedNum = scanner.nextInt();
+        System.out.println(inputtedNum);
     }
 }
